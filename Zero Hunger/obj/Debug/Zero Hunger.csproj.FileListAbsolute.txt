@@ -1,0 +1,87 @@
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\Zero Hunger.dll.config
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\Zero Hunger.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\Zero Hunger.pdb
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\csc.exe
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\csc.exe.config
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\csc.rsp
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\csi.exe
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\csi.exe.config
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\csi.rsp
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\Microsoft.Managed.Core.targets
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.AppContext.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Collections.Immutable.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Console.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Globalization.Calendars.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.IO.Compression.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.IO.FileSystem.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Net.Http.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Net.Sockets.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.ValueTuple.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Xml.XPath.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\vbc.exe
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\vbc.exe.config
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\vbc.rsp
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\VBCSCompiler.exe
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\roslyn\VBCSCompiler.exe.config
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\Antlr3.Runtime.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\Newtonsoft.Json.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\System.Web.Helpers.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\System.Web.Mvc.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\System.Web.Optimization.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\System.Web.Razor.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\System.Web.WebPages.Deployment.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\System.Web.WebPages.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\System.Web.WebPages.Razor.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\WebGrease.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\System.Web.Helpers.xml
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\System.Web.Mvc.xml
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\System.Web.Optimization.xml
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\System.Web.Razor.xml
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\System.Web.WebPages.xml
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\System.Web.WebPages.Deployment.xml
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\System.Web.WebPages.Razor.xml
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\Newtonsoft.Json.xml
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\Antlr3.Runtime.pdb
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitHub\Zero_Hunger\Zero Hunger\obj\Debug\Zero Hunger.csproj.AssemblyReference.cache
+D:\GitHub\Zero_Hunger\Zero Hunger\obj\Debug\Zero Hunger.csproj.CoreCompileInputs.cache
+D:\GitHub\Zero_Hunger\Zero Hunger\obj\Debug\Zero Hunger.csproj.CopyComplete
+D:\GitHub\Zero_Hunger\Zero Hunger\obj\Debug\Zero Hunger.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\obj\Debug\Zero Hunger.pdb
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\EntityFramework.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\EntityFramework.SqlServer.dll
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\EntityFramework.xml
+D:\GitHub\Zero_Hunger\Zero Hunger\bin\EntityFramework.SqlServer.xml
+D:\GitHub\Zero_Hunger\Zero Hunger\obj\Debug\Zero_Hunger.Migrations.InitialCreate.resources
+D:\GitHub\Zero_Hunger\Zero Hunger\obj\Debug\Zero Hunger.csproj.GenerateResource.cache
+D:\GitHub\Zero_Hunger\Zero Hunger\obj\Debug\Zero_Hunger.Migrations.Null.resources
+D:\GitHub\Zero_Hunger\Zero Hunger\obj\Debug\Zero_Hunger.Migrations.ForeingKey.resources

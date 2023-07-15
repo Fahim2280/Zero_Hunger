@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Zero_Hunger.DB.Restaurant>
+
+<p>
+    @Html.ActionLink("Create New", "addRestaurant")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.RestaurantName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RestaurantDescription)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RestaurantCont)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RestaurantEmail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RestaurantOwner)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RestaurantAddress)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.RestaurantName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RestaurantDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RestaurantCont)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RestaurantEmail)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RestaurantOwner)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RestaurantAddress)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.RestaurantID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.RestaurantID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.RestaurantID })
+        </td>
+    </tr>
+}
+
+</table>
