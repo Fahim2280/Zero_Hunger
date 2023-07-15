@@ -130,6 +130,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\EmploveeController.cs" />
+    <Compile Include="Controllers\EmployeeAssingnController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\RestaurantController.cs" />
     <Compile Include="DB\Employee.cs" />
@@ -210,6 +211,8 @@
     <Content Include="Views\Emplovee\EditEmplovee.cshtml" />
     <Content Include="Views\Restaurant\ShowRestaurant.cshtml" />
     <Content Include="Views\Restaurant\addRestaurant.cshtml" />
+    <Content Include="Views\EmployeeAssingn\addEmployeeAssingn.cshtml" />
+    <Content Include="Views\EmployeeAssingn\ShowEmployeeAssingn.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
