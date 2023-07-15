@@ -213,6 +213,7 @@
     <Content Include="Views\Restaurant\addRestaurant.cshtml" />
     <Content Include="Views\EmployeeAssingn\addEmployeeAssingn.cshtml" />
     <Content Include="Views\EmployeeAssingn\ShowEmployeeAssingn.cshtml" />
+    <Content Include="Views\Emplovee\Eidt.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

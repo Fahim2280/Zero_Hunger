@@ -52,5 +52,18 @@ namespace Zero_Hunger.Controllers
             obj.SaveChanges();
             return RedirectToAction("ShowEmployeeAssingn");
         }
+
+        public ActionResult Done(int id)
+        {
+            EmployeeAssingn emp = new EmployeeAssingn();
+            var change = (
+                from pr in obj.EmployeesAssingn
+                where pr.Id == id
+                select pr).SingleOrDefault();
+            change.Status = "Completed";
+            obj.SaveChanges();
+
+            return RedirectToAction("ShowEmployeeAssingn");
+        }
     }
 }

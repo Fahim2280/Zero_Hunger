@@ -86,5 +86,21 @@ namespace Zero_Hunger.Controllers
             }
             return View("Edit");
         }
+
+        public ActionResult Eidt(int Id)
+        {
+            var model = obj.Employees.Where(x => x.EmployeeID == Id).FirstOrDefault();
+            return View(model);
+        }
+
+        [HttpPost]
+        public ActionResult Edit(Employee model)
+        {
+            Employee employee = new Employee();
+            var edit = obj.Employees.Where(x => x.EmployeeID == model.EmployeeID).FirstOrDefault();
+            obj.Employees.Remove(edit);
+            obj.Employees.Add(model);
+            return RedirectToAction("ShowEmplovee");
+        }
     }
 }
